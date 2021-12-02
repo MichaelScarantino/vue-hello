@@ -1,0 +1,26 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* COMMON */
+body{
+    text-align: center;
+}
+/* button */
+.btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+/* h1 */
+h1{
+    margin: 20px 0;
+}
+/* small img */
+.small-img{
+    width: 300px;
+}
+.big-img{
+    width: 700px;
+}
